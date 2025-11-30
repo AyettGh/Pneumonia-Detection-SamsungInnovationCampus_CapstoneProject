@@ -144,4 +144,5 @@ This project is broken down into five core components, each with a specific resp
 5.  Access the services:
       * **Frontend**: `http://localhost:3000`
       * **Backend API**: `http://localhost:8000/docs`#   P n e u m o n i a - D e t e c t i o n - S a m s u n g I n n o v a t i o n C a m p u s _ C a p s t o n e P r o j e c t  
+ #   P n e u m o n i a - D e t e c t i o n - S a m s u n g I n n o v a t i o n C a m p u s _ C a p s t o n e P r o j e c t  
  
