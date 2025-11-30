@@ -1,0 +1,26 @@
+# For Jupyter, data exploration, and data processing
+jupyter
+pandas
+pydicom
+pillow
+matplotlib
+kaggle
+tqdm
+
+# For uploading data to GCS
+google-cloud-storage
+
+# For the API server
+fastapi
+uvicorn[standard]
+
+# For calling the Vertex AI Endpoint
+google-cloud-aiplatform
+
+# For training the model
+ultralytics
+mlflow
+
+# For connecting to Vertex AI Experiments & GCS
+google-cloud-aiplatform
+google-cloud-storage
